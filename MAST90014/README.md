@@ -10,7 +10,7 @@ We present a home  service allocation problem with a particular interest in the 
 > - the *basic model*, defined in `task1.jl`
 > - the *improved model*, made available in `model.jl`
 > 
-Additionally, two set of instance `30C-20P.xlsx` and `16C-10P.xlsx` are **only** for `model.jl`. If you wish to test on a smaller instance, please change the loading filename as stated below accordingly:
+Additionally, two set of instance [30C-20P.xlsx](30C-20P.xlsx) and `16C-10P.xlsx` are **only** for `model.jl`. If you wish to test on a smaller instance, please change the loading filename as stated below accordingly:
 ```Julia
 filename = "30C-20P.xlsx"
 ```
