@@ -2,6 +2,7 @@
 
 This project is created as a part of submission for the subject COMP90072: The Art of Scientific Compuation. 
 > Before running any files in this package, please refer to [package.txt](package.txt) to install or update all required packages.
+> Find the final report [here](main.pdf)
 
 ## 1. Model structure and use cases
 
